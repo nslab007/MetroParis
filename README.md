@@ -1,4 +1,10 @@
 # MetroParis / Simulated Annealing
+
+WIP
+
+TODO : Need proper refacto !!!!!
+
+
 Parcours des stations de metro de Paris - IDF - Metaheuristique - Recuit simulé
 
 
